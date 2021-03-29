@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "'Wuhan Virus'"
+    url: /Wuhan.virus
+  - title: "Myth-Making"
+    url: /myth-making/
+  - title: "Media Narratives"
+    url: /media-narratives/
+  - title: "Urban Form"
+    url: /urban-form/
