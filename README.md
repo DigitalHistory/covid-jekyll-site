@@ -3,7 +3,7 @@
 - install jekyll and the Ruby package installer, which is called "bundler":
   - `gem install jekyll bundler`
 
-Then clone the site and also get a local copy of the content directory:
+Then clone the site and also get a local copy of the content directory.  **You will need to have set up ssh tokens for github**. Cf. [this explanation on github](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) If that seems impossibly complex... I will update the instructions. But it will mean inputting your github credentials all the time.
 - `git clone git@github.com:DigitalHistory/covid-jekyll-site.git`
 - `git submodule init` 
 - `git submodule update`
