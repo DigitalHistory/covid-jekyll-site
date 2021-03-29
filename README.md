@@ -12,4 +12,4 @@ Now, get everything you need up and running:
 - `bundle install`
 - `bundle exec jekyll serve`
 
-now navigate to `http://localhost:4000` and see if you can see the site
+now navigate to  http://localhost:4000  and see if you can see the site
