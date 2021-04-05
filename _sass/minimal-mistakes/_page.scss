@@ -19,6 +19,7 @@
   }
 }
 
+
 body {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -36,6 +37,7 @@ body {
 }
 
 .page {
+    text-align: justify;
   @include breakpoint($large) {
     float: right;
     //width: calc(100% - #{$right-sidebar-width-narrow});
@@ -559,3 +561,5 @@ body {
     }
   }
 }
+
+img#invasion {float: left;}
